@@ -1,0 +1,34 @@
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.Login.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.Properties.Resources.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+E:\aaStudy\C#\bank\bank\bin\Debug\bank.exe.config
+E:\aaStudy\C#\bank\bank\bin\Debug\bank.exe
+E:\aaStudy\C#\bank\bank\bin\Debug\bank.pdb
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.exe
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.pdb
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.adminForm.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.securityForm.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.usersForm.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.addForm.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.moneyFrom.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.historyForm.resources
+E:\aaStudy\C#\bank\bank\obj\Debug\bank.giveForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\bin\Debug\bank.exe.config
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\bin\Debug\bank.exe
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\bin\Debug\bank.pdb
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.addForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.adminForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.giveForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.historyForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.Login.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.moneyFrom.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.Properties.Resources.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.securityForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.usersForm.resources
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.exe
+E:\aaStudy\C#\201805120130 叶鹏飞\bank\bank\obj\Debug\bank.pdb
